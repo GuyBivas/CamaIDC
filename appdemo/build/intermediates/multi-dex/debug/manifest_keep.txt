@@ -1,0 +1,3 @@
+# Referenced at C:\HACKATHON\Android-Open-SDK-master\Android-Open-SDK-master\StreamaxiaOpenSDKDemo\appdemo\build\intermediates\manifests\full\debug\AndroidManifest.xml:23
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
+

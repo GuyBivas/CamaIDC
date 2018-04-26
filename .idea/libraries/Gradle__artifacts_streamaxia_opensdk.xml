@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:streamaxia-opensdk">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/streamaxia-opensdk.aar/b602cb878c9ba21924fed5e3e4f36111/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/streamaxia-opensdk.aar/b602cb878c9ba21924fed5e3e4f36111/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

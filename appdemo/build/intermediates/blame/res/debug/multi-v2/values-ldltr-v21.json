@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\HACKATHON\\Android-Open-SDK-master\\Android-Open-SDK-master\\StreamaxiaOpenSDKDemo\\appdemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Guy\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\91a36e5ae07ab9b3e536de182ab9e208\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

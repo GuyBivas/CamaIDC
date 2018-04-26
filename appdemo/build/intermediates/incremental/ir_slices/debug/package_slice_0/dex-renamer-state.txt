@@ -1,0 +1,4 @@
+#Thu Apr 26 21:34:58 IDT 2018
+base.0=C\:\\HACKATHON\\Android-Open-SDK-master\\Android-Open-SDK-master\\StreamaxiaOpenSDKDemo\\appdemo\\build\\intermediates\\transforms\\dexMerger\\debug\\43
+path.0=classes.dex
+renamed.0=classes.dex
